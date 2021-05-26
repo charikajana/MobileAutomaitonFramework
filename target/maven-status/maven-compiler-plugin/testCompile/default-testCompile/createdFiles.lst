@@ -1,0 +1,4 @@
+com\ca\easypayment\allpageobjects\AllpageObjects.class
+com\ca\easypayment\stepdefs\chatspage\EasypaymentChatsPage.class
+com\ca\easypayment\runnertestfile\EasyPaymentRunTest.class
+com\ca\easypayment\stepdefs\homepage\LoginToApplication.class
